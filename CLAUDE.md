@@ -1,0 +1,1 @@
+A project for experimenting with economic models of varying types, with the aim of understanding and modelling economic output, productivity and spatial geography.
