@@ -1,6 +1,6 @@
 # Digest: "Rethinking productivity: the crucial role of demand"
 
-Claude Code generated doc based on prompts that start here.
+Claude Code generated doc based on prompts that start [here](https://github.com/DanOlner/econ_models_sandbox/blob/master/llm_convos/2026-03-09_1429_The_user_opened_the_file_UsersdanolnerCodeecon_mod.md#human-2).
 
 **Webber & Huaccha (2024), Journal of Post Keynesian Economics, 47:1, 55-83**
 
