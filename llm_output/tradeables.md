@@ -127,6 +127,8 @@ For our modelling aims, the Rice & Venables framework offers useful structure fo
 
 ## Critical review: are tradeable jobs the only "growth-relevant" kind?
 
+Via the prompt [here](https://github.com/DanOlner/econ_models_sandbox/blob/master/llm_convos/2026-03-09_1429_The_user_opened_the_file_UsersdanolnerCodeecon_mod.md#human-6).
+
 The Rice & Venables model, and a broader tradition in regional economics, implies a hierarchy: tradeable sectors drive regional prosperity, non-tradeables are derivative. This section reviews literature that supports, critiques, and complicates that claim.
 
 ### Critiques of tradeable primacy
